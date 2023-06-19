@@ -1,2 +1,2 @@
-//this is f1
-console.log('f1');
+// This is f2, it will be conflict
+console.log('f2')
